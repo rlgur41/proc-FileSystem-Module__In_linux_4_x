@@ -1,0 +1,1 @@
+cmd_/home/rlgur41/proc_fs/my_proc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rlgur41/proc_fs/my_proc.ko /home/rlgur41/proc_fs/my_proc.o /home/rlgur41/proc_fs/my_proc.mod.o
